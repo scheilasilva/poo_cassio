@@ -1,0 +1,15 @@
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\bin\Debug\net7.0\TDE03.exe
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\bin\Debug\net7.0\TDE03.deps.json
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\bin\Debug\net7.0\TDE03.runtimeconfig.json
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\bin\Debug\net7.0\TDE03.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\bin\Debug\net7.0\TDE03.pdb
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.csproj.AssemblyReference.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.AssemblyInfoInputs.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.AssemblyInfo.cs
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.csproj.CoreCompileInputs.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\refint\TDE03.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.pdb
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\TDE03.genruntimeconfig.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\aula03\TDE03\obj\Debug\net7.0\ref\TDE03.dll

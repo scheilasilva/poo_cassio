@@ -1,0 +1,15 @@
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\bin\Debug\net7.0\aula02_oo.exe
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\bin\Debug\net7.0\aula02_oo.deps.json
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\bin\Debug\net7.0\aula02_oo.runtimeconfig.json
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\bin\Debug\net7.0\aula02_oo.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\bin\Debug\net7.0\aula02_oo.pdb
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.csproj.AssemblyReference.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.AssemblyInfoInputs.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.AssemblyInfo.cs
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.csproj.CoreCompileInputs.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\refint\aula02_oo.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.pdb
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\aula02_oo.genruntimeconfig.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\poo\aula02_oo\obj\Debug\net7.0\ref\aula02_oo.dll
