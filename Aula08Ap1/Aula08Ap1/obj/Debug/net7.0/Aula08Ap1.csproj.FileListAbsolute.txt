@@ -1,0 +1,30 @@
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.csproj.AssemblyReference.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.AssemblyInfoInputs.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.AssemblyInfo.cs
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.csproj.CoreCompileInputs.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.exe
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.deps.json
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.runtimeconfig.json
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.pdb
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\refint\Aula08Ap1.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.pdb
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.genruntimeconfig.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula08Ap1\obj\Debug\net7.0\ref\Aula08Ap1.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.exe
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.deps.json
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.runtimeconfig.json
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\bin\Debug\net7.0\Aula08Ap1.pdb
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.csproj.AssemblyReference.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.AssemblyInfoInputs.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.AssemblyInfo.cs
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.csproj.CoreCompileInputs.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\refint\Aula08Ap1.dll
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.pdb
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\Aula08Ap1.genruntimeconfig.cache
+C:\Users\Scheila\Documents\Faculdade\3 semestre\Programação Orientada a Obejto\Aula08Ap1\Aula08Ap1\obj\Debug\net7.0\ref\Aula08Ap1.dll
