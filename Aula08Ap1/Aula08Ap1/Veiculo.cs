@@ -1,5 +1,6 @@
 namespace Aula08Ap1
 {
+    //classe veiculo com abstract pra nao pode ser estanciada
     public abstract class Veiculo
     {
         public string Marca { get; set; }
@@ -13,9 +14,11 @@ namespace Aula08Ap1
             this.Placa = placa;
         }
 
+//metodo para sobreescrever na classe moto e carro
+//sobreescrevo o metodo imprimirDados
         public virtual void ImprimirDados()
         {
-            Console.WriteLine($" - Marca: {Marca}, Modelo: {Modelo}, Placa: {Placa}");
+            Console.WriteLine($" Marca: {Marca}, Modelo: {Modelo}, Placa: {Placa}");
         }
 
     }
